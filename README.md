@@ -1,4 +1,4 @@
-# Mail Log Manipulation
+# MailPoisonRCE
 
 ```sh
 This tool is for Local File Inclusion to Remote Code Execution via mail log poisoning. 
